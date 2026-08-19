@@ -18,7 +18,7 @@ The purpose of the project was to learn Django, and it serves as a practical mil
 
 This project was built following the **Python Django for Beginners Full Course** by [Dave Gray](https://github.com/gitdagray). 
 *   **Original Tutorial Repository:** [gitdagray/django-course](https://github.com/gitdagray/django-course)
-*   **Topics Covered:** Apps, Templates, Models, Migrations, ORM, Admin, User Authorization, and Custom Fowms
+*   **Topics Covered:** Apps, Templates, Models, Migrations, ORM, Admin, User Authorization, and Custom Forms
 
 ---
 
