@@ -30,7 +30,7 @@ Follow these sequential steps to set up and run the application on your local ma
 Make sure you have Python 3 installed. You will also need the terminal commands listed below.
 
 ### 1. Clone the Repository
-Clone your project to your local directory and navigate inside it:
+Clone the project to your local directory and navigate inside it:
 ```bash
 git clone https://github.com/kshuang04/Django-Blog-Web-App.git
 cd myproject
@@ -64,7 +64,7 @@ Because sensitive configuration data is hidden from GitHub, you must create a lo
    ```
 
 ### 5. Run Database Migrations
-Set up your local SQLite database structure by running:
+Set up the local SQLite database structure by running:
 ```bash
 python manage.py migrate
 ```
